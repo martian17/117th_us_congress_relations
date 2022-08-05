@@ -1,0 +1,2017 @@
+[
+    {
+        "class": 2,
+        "name": "Tommy Tuberville",
+        "wiki": "/wiki/Tommy_Tuberville",
+        "party": "(R)",
+        "state": "Alabama",
+        "state_link": "/wiki/List_of_United_States_senators_from_Alabama",
+        "id": 0,
+        "accounts": [
+            {
+                "id": "1345739193721487362",
+                "name": "Coach Tommy Tuberville",
+                "username": "SenTuberville"
+            },
+            {
+                "id": "110798061",
+                "name": "Tommy Tuberville",
+                "username": "TTuberville"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Richard Shelby",
+        "wiki": "/wiki/Richard_Shelby",
+        "party": "(R)",
+        "state": "Alabama",
+        "state_link": "/wiki/List_of_United_States_senators_from_Alabama",
+        "id": 1,
+        "accounts": [
+            {
+                "id": "21111098",
+                "name": "Richard Shelby",
+                "username": "SenShelby"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Dan Sullivan",
+        "wiki": "/wiki/Dan_Sullivan_(U.S._senator)",
+        "party": "(R)",
+        "state": "Alaska",
+        "state_link": "/wiki/List_of_United_States_senators_from_Alaska",
+        "id": 2,
+        "accounts": [
+            {
+                "id": "2891210047",
+                "name": "Sen. Dan Sullivan",
+                "username": "SenDanSullivan"
+            },
+            {
+                "id": "1869975300",
+                "name": "Dan Sullivan",
+                "username": "DanSullivan_AK"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Lisa Murkowski",
+        "wiki": "/wiki/Lisa_Murkowski",
+        "party": "(R)",
+        "state": "Alaska",
+        "state_link": "/wiki/List_of_United_States_senators_from_Alaska",
+        "id": 3,
+        "accounts": [
+            {
+                "id": "151247615",
+                "name": "Lisa Murkowski",
+                "username": "LisaForSenate"
+            },
+            {
+                "id": "18061669",
+                "name": "Sen. Lisa Murkowski",
+                "username": "lisamurkowski"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Kyrsten Sinema",
+        "wiki": "/wiki/Kyrsten_Sinema",
+        "party": "(D)",
+        "state": "Arizona",
+        "state_link": "/wiki/List_of_United_States_senators_from_Arizona",
+        "id": 4,
+        "accounts": [
+            {
+                "id": "1080844782",
+                "name": "Kyrsten Sinema",
+                "username": "SenatorSinema"
+            },
+            {
+                "id": "20747881",
+                "name": "Kyrsten Sinema",
+                "username": "kyrstensinema"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Mark Kelly",
+        "wiki": "/wiki/Mark_Kelly",
+        "party": "(D)",
+        "state": "Arizona",
+        "state_link": "/wiki/List_of_United_States_senators_from_Arizona",
+        "id": 5,
+        "accounts": [
+            {
+                "id": "1324926274888888320",
+                "name": "Senator Mark Kelly",
+                "username": "SenMarkKelly"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Tom Cotton",
+        "wiki": "/wiki/Tom_Cotton",
+        "party": "(R)",
+        "state": "Arkansas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Arkansas",
+        "id": 6,
+        "accounts": [
+            {
+                "id": "968650362",
+                "name": "Tom Cotton",
+                "username": "SenTomCotton"
+            },
+            {
+                "id": "343041182",
+                "name": "Tom Cotton",
+                "username": "TomCottonAR"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "John Boozman",
+        "wiki": "/wiki/John_Boozman",
+        "party": "(R)",
+        "state": "Arkansas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Arkansas",
+        "id": 7,
+        "accounts": [
+            {
+                "id": "111671288",
+                "name": "John Boozman",
+                "username": "Boozman4AR"
+            },
+            {
+                "id": "5558312",
+                "name": "Senator John Boozman",
+                "username": "JohnBoozman"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Dianne Feinstein",
+        "wiki": "/wiki/Dianne_Feinstein",
+        "party": "(D)",
+        "state": "California",
+        "state_link": "/wiki/List_of_United_States_senators_from_California",
+        "id": 8,
+        "accounts": [
+            {
+                "id": "476256944",
+                "name": "Senator Dianne Feinstein",
+                "username": "SenFeinstein"
+            },
+            {
+                "id": "378631423",
+                "name": "Dianne Feinstein",
+                "username": "DianneFeinstein"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Kamala Harris",
+        "wiki": "/wiki/Kamala_Harris",
+        "party": "(D)",
+        "state": "California",
+        "state_link": "/wiki/List_of_United_States_senators_from_California",
+        "id": 9,
+        "accounts": [
+            {
+                "id": "30354991",
+                "name": "Kamala Harris",
+                "username": "KamalaHarris"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "John Hickenlooper",
+        "wiki": "/wiki/John_Hickenlooper",
+        "party": "(D)",
+        "state": "Colorado",
+        "state_link": "/wiki/List_of_United_States_senators_from_Colorado",
+        "id": 10,
+        "accounts": [
+            {
+                "id": "1318728336923787264",
+                "name": "Senator John Hickenlooper",
+                "username": "SenatorHick"
+            },
+            {
+                "id": "117839957",
+                "name": "John Hickenlooper",
+                "username": "Hickenlooper"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Michael Bennet",
+        "wiki": "/wiki/Michael_Bennet",
+        "party": "(D)",
+        "state": "Colorado",
+        "state_link": "/wiki/List_of_United_States_senators_from_Colorado",
+        "id": 11,
+        "accounts": [
+            {
+                "id": "224285242",
+                "name": "Michael Bennet",
+                "username": "SenatorBennet"
+            },
+            {
+                "id": "45645232",
+                "name": "Michael Bennet",
+                "username": "MichaelBennet"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Chris Murphy",
+        "wiki": "/wiki/Chris_Murphy",
+        "party": "(D)",
+        "state": "Connecticut",
+        "state_link": "/wiki/List_of_United_States_senators_from_Connecticut",
+        "id": 12,
+        "accounts": [
+            {
+                "id": "2853793517",
+                "name": "Sen. Murphy Office",
+                "username": "SenMurphyOffice"
+            },
+            {
+                "id": "150078976",
+                "name": "Chris Murphy",
+                "username": "ChrisMurphyCT"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Richard Blumenthal",
+        "wiki": "/wiki/Richard_Blumenthal",
+        "party": "(D)",
+        "state": "Connecticut",
+        "state_link": "/wiki/List_of_United_States_senators_from_Connecticut",
+        "id": 13,
+        "accounts": [
+            {
+                "id": "278124059",
+                "name": "Richard Blumenthal",
+                "username": "SenBlumenthal"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Tom Carper",
+        "wiki": "/wiki/Tom_Carper",
+        "party": "(D)",
+        "state": "Delaware",
+        "state_link": "/wiki/List_of_United_States_senators_from_Delaware",
+        "id": 14,
+        "accounts": [
+            {
+                "id": "381577682",
+                "name": "Tom Carper",
+                "username": "TomCarperforDE"
+            },
+            {
+                "id": "249787913",
+                "name": "Senator Tom Carper",
+                "username": "SenatorCarper"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Chris Coons",
+        "wiki": "/wiki/Chris_Coons",
+        "party": "(D)",
+        "state": "Delaware",
+        "state_link": "/wiki/List_of_United_States_senators_from_Delaware",
+        "id": 15,
+        "accounts": [
+            {
+                "id": "435500714",
+                "name": "Office of Sen. Coons",
+                "username": "SenCoonsOffice"
+            },
+            {
+                "id": "15324851",
+                "name": "Senator Chris Coons",
+                "username": "ChrisCoons"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Rick Scott",
+        "wiki": "/wiki/Rick_Scott",
+        "party": "(R)",
+        "state": "Florida",
+        "state_link": "/wiki/List_of_United_States_senators_from_Florida",
+        "id": 16,
+        "accounts": [
+            {
+                "id": "306389855",
+                "name": "Rick Scott",
+                "username": "ScottforFlorida"
+            },
+            {
+                "id": "131546062",
+                "name": "Rick Scott",
+                "username": "SenRickScott"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Marco Rubio",
+        "wiki": "/wiki/Marco_Rubio",
+        "party": "(R)",
+        "state": "Florida",
+        "state_link": "/wiki/List_of_United_States_senators_from_Florida",
+        "id": 17,
+        "accounts": [
+            {
+                "id": "229966028",
+                "name": "Senator Rubio Press",
+                "username": "SenRubioPress"
+            },
+            {
+                "id": "15745368",
+                "name": "Marco Rubio",
+                "username": "marcorubio"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jon Ossoff",
+        "wiki": "/wiki/Jon_Ossoff",
+        "party": "(D)",
+        "state": "Georgia",
+        "state_link": "/wiki/List_of_United_States_senators_from_Georgia",
+        "id": 18,
+        "accounts": [
+            {
+                "id": "1356714265894408196",
+                "name": "Ossoff's Office",
+                "username": "SenOssoff"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Kelly Loeffler",
+        "wiki": "/wiki/Kelly_Loeffler",
+        "party": "(R)",
+        "state": "Georgia",
+        "state_link": "/wiki/List_of_United_States_senators_from_Georgia",
+        "id": 19,
+        "accounts": [
+            {
+                "id": "1200451909406121984",
+                "name": "Senator Kelly Loeffler",
+                "username": "SenatorLoeffler"
+            },
+            {
+                "id": "29495695",
+                "name": "Kelly Loeffler",
+                "username": "KLoeffler"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Mazie Hirono",
+        "wiki": "/wiki/Mazie_Hirono",
+        "party": "(D)",
+        "state": "Hawaii",
+        "state_link": "/wiki/List_of_United_States_senators_from_Hawaii",
+        "id": 20,
+        "accounts": [
+            {
+                "id": "169198625",
+                "name": "Mazie Hirono",
+                "username": "mazieforhawaii"
+            },
+            {
+                "id": "92186819",
+                "name": "Senator Mazie Hirono",
+                "username": "maziehirono"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Brian Schatz",
+        "wiki": "/wiki/Brian_Schatz",
+        "party": "(D)",
+        "state": "Hawaii",
+        "state_link": "/wiki/List_of_United_States_senators_from_Hawaii",
+        "id": 21,
+        "accounts": [
+            {
+                "id": "1262099252",
+                "name": "Senator Brian Schatz",
+                "username": "SenBrianSchatz"
+            },
+            {
+                "id": "47747074",
+                "name": "Brian Schatz",
+                "username": "brianschatz"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jim Risch",
+        "wiki": "/wiki/Jim_Risch",
+        "party": "(R)",
+        "state": "Idaho",
+        "state_link": "/wiki/List_of_United_States_senators_from_Idaho",
+        "id": 22,
+        "accounts": [
+            {
+                "id": "1148757025012277249",
+                "name": "Jim Risch for US Senate",
+                "username": "Risch4Idaho"
+            },
+            {
+                "id": "1096059529",
+                "name": "Jim Risch",
+                "username": "SenatorRisch"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Mike Crapo",
+        "wiki": "/wiki/Mike_Crapo",
+        "party": "(R)",
+        "state": "Idaho",
+        "state_link": "/wiki/List_of_United_States_senators_from_Idaho",
+        "id": 23,
+        "accounts": [
+            {
+                "id": "600463589",
+                "name": "Senator Mike Crapo",
+                "username": "MikeCrapo"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Dick Durbin",
+        "wiki": "/wiki/Dick_Durbin",
+        "party": "(D)",
+        "state": "Illinois",
+        "state_link": "/wiki/List_of_United_States_senators_from_Illinois",
+        "id": 24,
+        "accounts": [
+            {
+                "id": "308794407",
+                "name": "Dick Durbin",
+                "username": "DickDurbin"
+            },
+            {
+                "id": "247334603",
+                "name": "Senator Dick Durbin",
+                "username": "SenatorDurbin"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Tammy Duckworth",
+        "wiki": "/wiki/Tammy_Duckworth",
+        "party": "(D)",
+        "state": "Illinois",
+        "state_link": "/wiki/List_of_United_States_senators_from_Illinois",
+        "id": 25,
+        "accounts": [
+            {
+                "id": "1058520120",
+                "name": "Tammy Duckworth",
+                "username": "SenDuckworth"
+            },
+            {
+                "id": "328679423",
+                "name": "Tammy Duckworth",
+                "username": "TammyDuckworth"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Mike Braun",
+        "wiki": "/wiki/Mike_Braun",
+        "party": "(R)",
+        "state": "Indiana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Indiana",
+        "id": 26,
+        "accounts": [
+            {
+                "id": "1080870981877534720",
+                "name": "Senator Mike Braun",
+                "username": "SenatorBraun"
+            },
+            {
+                "id": "1861019372",
+                "name": "Mike Braun",
+                "username": "braun4indiana"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Todd Young",
+        "wiki": "/wiki/Todd_Young",
+        "party": "(R)",
+        "state": "Indiana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Indiana",
+        "id": 27,
+        "accounts": [
+            {
+                "id": "234128524",
+                "name": "Senator Todd Young",
+                "username": "SenToddYoung"
+            },
+            {
+                "id": "59969802",
+                "name": "Todd Young",
+                "username": "ToddYoungIN"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Joni Ernst",
+        "wiki": "/wiki/Joni_Ernst",
+        "party": "(R)",
+        "state": "Iowa",
+        "state_link": "/wiki/List_of_United_States_senators_from_Iowa",
+        "id": 28,
+        "accounts": [
+            {
+                "id": "2856787757",
+                "name": "Joni Ernst",
+                "username": "SenJoniErnst"
+            },
+            {
+                "id": "1383059977",
+                "name": "Joni Ernst",
+                "username": "joniernst"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Chuck Grassley",
+        "wiki": "/wiki/Chuck_Grassley",
+        "party": "(R)",
+        "state": "Iowa",
+        "state_link": "/wiki/List_of_United_States_senators_from_Iowa",
+        "id": 29,
+        "accounts": [
+            {
+                "id": "294126378",
+                "name": "Sen. Grassley Press",
+                "username": "GrassleyPress"
+            },
+            {
+                "id": "10615232",
+                "name": "ChuckGrassley",
+                "username": "ChuckGrassley"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Roger Marshall",
+        "wiki": "/wiki/Roger_Marshall_(politician)",
+        "party": "(R)",
+        "state": "Kansas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Kansas",
+        "id": 30,
+        "accounts": [
+            {
+                "id": "1336344005588738052",
+                "name": "Sen. Marshall",
+                "username": "SenatorMarshall"
+            },
+            {
+                "id": "1240107944",
+                "name": "Dr. Roger Marshall",
+                "username": "RogerMarshallMD"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Jerry Moran",
+        "wiki": "/wiki/Jerry_Moran",
+        "party": "(R)",
+        "state": "Kansas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Kansas",
+        "id": 31,
+        "accounts": [
+            {
+                "id": "18632666",
+                "name": "Senator Jerry Moran",
+                "username": "JerryMoran"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Mitch McConnell",
+        "wiki": "/wiki/Mitch_McConnell",
+        "party": "(R)",
+        "state": "Kentucky",
+        "state_link": "/wiki/List_of_United_States_senators_from_Kentucky",
+        "id": 32,
+        "accounts": [
+            {
+                "id": "1249982359",
+                "name": "Leader McConnell",
+                "username": "LeaderMcConnell"
+            },
+            {
+                "id": "339822881",
+                "name": "Senator McConnell Press",
+                "username": "McConnellPress"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Rand Paul",
+        "wiki": "/wiki/Rand_Paul",
+        "party": "(R)",
+        "state": "Kentucky",
+        "state_link": "/wiki/List_of_United_States_senators_from_Kentucky",
+        "id": 33,
+        "accounts": [
+            {
+                "id": "216881337",
+                "name": "Rand Paul",
+                "username": "RandPaul"
+            },
+            {
+                "id": "39834947",
+                "name": "Rand Paul",
+                "username": "DrRandPaul"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Bill Cassidy",
+        "wiki": "/wiki/Bill_Cassidy",
+        "party": "(R)",
+        "state": "Louisiana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Louisiana",
+        "id": 34,
+        "accounts": [
+            {
+                "id": "1017500185356853248",
+                "name": "U.S. Senator Bill Cassidy, M.D.",
+                "username": "SenBillCassidy"
+            },
+            {
+                "id": "55677432",
+                "name": "Bill Cassidy, M.D.",
+                "username": "BillCassidy"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "John Kennedy",
+        "wiki": "/wiki/John_Kennedy_(Louisiana_politician)",
+        "party": "(R)",
+        "state": "Louisiana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Louisiana",
+        "id": 35,
+        "accounts": [
+            {
+                "id": "816683274076614656",
+                "name": "John Kennedy",
+                "username": "SenJohnKennedy"
+            },
+            {
+                "id": "26594419",
+                "name": "John Neely Kennedy",
+                "username": "JohnKennedyLA"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Angus King",
+        "wiki": "/wiki/Angus_King",
+        "party": "(I)",
+        "state": "Maine",
+        "state_link": "/wiki/List_of_United_States_senators_from_Maine",
+        "id": 36,
+        "accounts": [
+            {
+                "id": "1068481578",
+                "name": "Senator Angus King",
+                "username": "SenAngusKing"
+            },
+            {
+                "id": "516114909",
+                "name": "Angus King",
+                "username": "AngusforMaine"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Susan Collins",
+        "wiki": "/wiki/Susan_Collins",
+        "party": "(R)",
+        "state": "Maine",
+        "state_link": "/wiki/List_of_United_States_senators_from_Maine",
+        "id": 37,
+        "accounts": [
+            {
+                "id": "19726613",
+                "name": "Sen. Susan Collins",
+                "username": "SenatorCollins"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Ben Cardin",
+        "wiki": "/wiki/Ben_Cardin",
+        "party": "(D)",
+        "state": "Maryland",
+        "state_link": "/wiki/List_of_United_States_senators_from_Maryland",
+        "id": 38,
+        "accounts": [
+            {
+                "id": "278094476",
+                "name": "Ben Cardin",
+                "username": "BenCardinforMD"
+            },
+            {
+                "id": "109071031",
+                "name": "Senator Ben Cardin",
+                "username": "SenatorCardin"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Chris Van Hollen",
+        "wiki": "/wiki/Chris_Van_Hollen",
+        "party": "(D)",
+        "state": "Maryland",
+        "state_link": "/wiki/List_of_United_States_senators_from_Maryland",
+        "id": 39,
+        "accounts": [
+            {
+                "id": "3067974778",
+                "name": "Chris Van Hollen",
+                "username": "VanHollenForMD"
+            },
+            {
+                "id": "18137749",
+                "name": "Senator Chris Van Hollen",
+                "username": "ChrisVanHollen"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Elizabeth Warren",
+        "wiki": "/wiki/Elizabeth_Warren",
+        "party": "(D)",
+        "state": "Massachusetts",
+        "state_link": "/wiki/List_of_United_States_senators_from_Massachusetts",
+        "id": 40,
+        "accounts": [
+            {
+                "id": "970207298",
+                "name": "Elizabeth Warren",
+                "username": "SenWarren"
+            },
+            {
+                "id": "357606935",
+                "name": "Elizabeth Warren",
+                "username": "ewarren"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Ed Markey",
+        "wiki": "/wiki/Ed_Markey",
+        "party": "(D)",
+        "state": "Massachusetts",
+        "state_link": "/wiki/List_of_United_States_senators_from_Massachusetts",
+        "id": 41,
+        "accounts": [
+            {
+                "id": "1129029661",
+                "name": "Ed Markey",
+                "username": "EdMarkey"
+            },
+            {
+                "id": "21406834",
+                "name": "Ed Markey",
+                "username": "SenMarkey"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Debbie Stabenow",
+        "wiki": "/wiki/Debbie_Stabenow",
+        "party": "(D)",
+        "state": "Michigan",
+        "state_link": "/wiki/List_of_United_States_senators_from_Michigan",
+        "id": 42,
+        "accounts": [
+            {
+                "id": "76456274",
+                "name": "Sen. Debbie Stabenow",
+                "username": "SenStabenow"
+            },
+            {
+                "id": "20113797",
+                "name": "Debbie Stabenow",
+                "username": "stabenow"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Gary Peters",
+        "wiki": "/wiki/Gary_Peters",
+        "party": "(D)",
+        "state": "Michigan",
+        "state_link": "/wiki/List_of_United_States_senators_from_Michigan",
+        "id": 43,
+        "accounts": [
+            {
+                "id": "236511574",
+                "name": "Senator Gary Peters",
+                "username": "SenGaryPeters"
+            },
+            {
+                "id": "145292853",
+                "name": "Gary Peters",
+                "username": "GaryPeters"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Amy Klobuchar",
+        "wiki": "/wiki/Amy_Klobuchar",
+        "party": "(DFL)",
+        "state": "Minnesota",
+        "state_link": "/wiki/List_of_United_States_senators_from_Minnesota",
+        "id": 44,
+        "accounts": [
+            {
+                "id": "33537967",
+                "name": "Amy Klobuchar",
+                "username": "amyklobuchar"
+            },
+            {
+                "id": "22044727",
+                "name": "Senator Amy Klobuchar",
+                "username": "SenAmyKlobuchar"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Tina Smith",
+        "wiki": "/wiki/Tina_Smith",
+        "party": "(DFL)",
+        "state": "Minnesota",
+        "state_link": "/wiki/List_of_United_States_senators_from_Minnesota",
+        "id": 45,
+        "accounts": [
+            {
+                "id": "941000686275387392",
+                "name": "Senator Tina Smith",
+                "username": "SenTinaSmith"
+            },
+            {
+                "id": "47724293",
+                "name": "Tina Smith",
+                "username": "TinaSmithMN"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Roger Wicker",
+        "wiki": "/wiki/Roger_Wicker",
+        "party": "(R)",
+        "state": "Mississippi",
+        "state_link": "/wiki/List_of_United_States_senators_from_Mississippi",
+        "id": 46,
+        "accounts": [
+            {
+                "id": "264219447",
+                "name": "Senator Roger Wicker",
+                "username": "SenatorWicker"
+            },
+            {
+                "id": "11650762",
+                "name": "Roger Wicker",
+                "username": "RogerWicker"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Cindy Hyde-Smith",
+        "wiki": "/wiki/Cindy_Hyde-Smith",
+        "party": "(R)",
+        "state": "Mississippi",
+        "state_link": "/wiki/List_of_United_States_senators_from_Mississippi",
+        "id": 47,
+        "accounts": [
+            {
+                "id": "983348251972816896",
+                "name": "U.S. Senator Cindy Hyde-Smith",
+                "username": "SenHydeSmith"
+            },
+            {
+                "id": "262192574",
+                "name": "Cindy Hyde-Smith",
+                "username": "cindyhydesmith"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Josh Hawley",
+        "wiki": "/wiki/Josh_Hawley",
+        "party": "(R)",
+        "state": "Missouri",
+        "state_link": "/wiki/List_of_United_States_senators_from_Missouri",
+        "id": 48,
+        "accounts": [
+            {
+                "id": "1080960924687704064",
+                "name": "Senator Hawley Press Office",
+                "username": "SenHawleyPress"
+            },
+            {
+                "id": "2352629311",
+                "name": "Josh Hawley",
+                "username": "HawleyMO"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Roy Blunt",
+        "wiki": "/wiki/Roy_Blunt",
+        "party": "(R)",
+        "state": "Missouri",
+        "state_link": "/wiki/List_of_United_States_senators_from_Missouri",
+        "id": 49,
+        "accounts": [
+            {
+                "id": "389554914",
+                "name": "RoyBluntMO",
+                "username": "RoyBluntMO"
+            },
+            {
+                "id": "21269970",
+                "name": "Senator Roy Blunt",
+                "username": "RoyBlunt"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Jon Tester",
+        "wiki": "/wiki/Jon_Tester",
+        "party": "(D)",
+        "state": "Montana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Montana",
+        "id": 50,
+        "accounts": [
+            {
+                "id": "515822213",
+                "name": "Senator Jon Tester",
+                "username": "SenatorTester"
+            },
+            {
+                "id": "16473577",
+                "name": "Jon Tester",
+                "username": "jontester"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Steve Daines",
+        "wiki": "/wiki/Steve_Daines",
+        "party": "(R)",
+        "state": "Montana",
+        "state_link": "/wiki/List_of_United_States_senators_from_Montana",
+        "id": 51,
+        "accounts": [
+            {
+                "id": "11651202",
+                "name": "Steve Daines",
+                "username": "SteveDaines"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Deb Fischer",
+        "wiki": "/wiki/Deb_Fischer",
+        "party": "(R)",
+        "state": "Nebraska",
+        "state_link": "/wiki/List_of_United_States_senators_from_Nebraska",
+        "id": 52,
+        "accounts": [
+            {
+                "id": "1071402577",
+                "name": "Senator Deb Fischer",
+                "username": "SenatorFischer"
+            },
+            {
+                "id": "323490669",
+                "name": "Deb Fischer",
+                "username": "DebforNebraska"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Ben Sasse",
+        "wiki": "/wiki/Ben_Sasse",
+        "party": "(R)",
+        "state": "Nebraska",
+        "state_link": "/wiki/List_of_United_States_senators_from_Nebraska",
+        "id": 53,
+        "accounts": [
+            {
+                "id": "2962923040",
+                "name": "Senator Ben Sasse",
+                "username": "SenSasse"
+            },
+            {
+                "id": "1480852568",
+                "name": "Ben Sasse",
+                "username": "BenSasse"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Jacky Rosen",
+        "wiki": "/wiki/Jacky_Rosen",
+        "party": "(D)",
+        "state": "Nevada",
+        "state_link": "/wiki/List_of_United_States_senators_from_Nevada",
+        "id": 54,
+        "accounts": [
+            {
+                "id": "818554054309715969",
+                "name": "Senator Jacky Rosen",
+                "username": "SenJackyRosen"
+            },
+            {
+                "id": "4749863113",
+                "name": "Jacky Rosen",
+                "username": "RosenforNevada"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Catherine Cortez Masto",
+        "wiki": "/wiki/Catherine_Cortez_Masto",
+        "party": "(D)",
+        "state": "Nevada",
+        "state_link": "/wiki/List_of_United_States_senators_from_Nevada",
+        "id": 55,
+        "accounts": [
+            {
+                "id": "811313565760163844",
+                "name": "Senator Cortez Masto",
+                "username": "SenCortezMasto"
+            },
+            {
+                "id": "3145735852",
+                "name": "Catherine Cortez Masto",
+                "username": "CortezMasto"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jeanne Shaheen",
+        "wiki": "/wiki/Jeanne_Shaheen",
+        "party": "(D)",
+        "state": "New Hampshire",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Hampshire",
+        "id": 56,
+        "accounts": [
+            {
+                "id": "109287731",
+                "name": "Sen. Jeanne Shaheen",
+                "username": "SenatorShaheen"
+            },
+            {
+                "id": "14125897",
+                "name": "Jeanne Shaheen",
+                "username": "JeanneShaheen"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Maggie Hassan",
+        "wiki": "/wiki/Maggie_Hassan",
+        "party": "(D)",
+        "state": "New Hampshire",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Hampshire",
+        "id": 57,
+        "accounts": [
+            {
+                "id": "946549322",
+                "name": "Sen. Maggie Hassan",
+                "username": "SenatorHassan"
+            },
+            {
+                "id": "361569788",
+                "name": "Maggie Hassan",
+                "username": "Maggie_Hassan"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Bob Menendez",
+        "wiki": "/wiki/Bob_Menendez",
+        "party": "(D)",
+        "state": "New Jersey",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Jersey",
+        "id": 58,
+        "accounts": [
+            {
+                "id": "407039290",
+                "name": "Menendez for NJ",
+                "username": "BobMenendezNJ"
+            },
+            {
+                "id": "18695134",
+                "name": "Senator Bob Menendez",
+                "username": "SenatorMenendez"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Cory Booker",
+        "wiki": "/wiki/Cory_Booker",
+        "party": "(D)",
+        "state": "New Jersey",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Jersey",
+        "id": 59,
+        "accounts": [
+            {
+                "id": "2167097881",
+                "name": "Sen. Cory Booker",
+                "username": "SenBooker"
+            },
+            {
+                "id": "15808765",
+                "name": "Cory Booker",
+                "username": "CoryBooker"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Martin Heinrich",
+        "wiki": "/wiki/Martin_Heinrich",
+        "party": "(D)",
+        "state": "New Mexico",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Mexico",
+        "id": 60,
+        "accounts": [
+            {
+                "id": "1099199839",
+                "name": "Martin Heinrich",
+                "username": "MartinHeinrich"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Ben Ray Luján",
+        "wiki": "/wiki/Ben_Ray_Luj%C3%A1n",
+        "party": "(D)",
+        "state": "New Mexico",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_Mexico",
+        "id": 61,
+        "accounts": [
+            {
+                "id": "91125308",
+                "name": "Ben Ray Luján",
+                "username": "benraylujan"
+            },
+            {
+                "id": "19318314",
+                "name": "Senator Ben Ray Luján",
+                "username": "SenatorLujan"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Kirsten Gillibrand",
+        "wiki": "/wiki/Kirsten_Gillibrand",
+        "party": "(D)",
+        "state": "New York",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_York",
+        "id": 62,
+        "accounts": [
+            {
+                "id": "899978622416695297",
+                "name": "Sen. Kirsten Gillibrand",
+                "username": "gillibrandny"
+            },
+            {
+                "id": "72198806",
+                "name": "Kirsten Gillibrand",
+                "username": "SenGillibrand"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Chuck Schumer",
+        "wiki": "/wiki/Chuck_Schumer",
+        "party": "(D)",
+        "state": "New York",
+        "state_link": "/wiki/List_of_United_States_senators_from_New_York",
+        "id": 63,
+        "accounts": [
+            {
+                "id": "1872999342",
+                "name": "Chuck Schumer",
+                "username": "chuckschumer"
+            },
+            {
+                "id": "17494010",
+                "name": "Chuck Schumer",
+                "username": "SenSchumer"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Thom Tillis",
+        "wiki": "/wiki/Thom_Tillis",
+        "party": "(R)",
+        "state": "North Carolina",
+        "state_link": "/wiki/List_of_United_States_senators_from_North_Carolina",
+        "id": 64,
+        "accounts": [
+            {
+                "id": "2964174789",
+                "name": "Senator Thom Tillis",
+                "username": "SenThomTillis"
+            },
+            {
+                "id": "22195441",
+                "name": "Thom Tillis",
+                "username": "ThomTillis"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Richard Burr",
+        "wiki": "/wiki/Richard_Burr",
+        "party": "(R)",
+        "state": "North Carolina",
+        "state_link": "/wiki/List_of_United_States_senators_from_North_Carolina",
+        "id": 65,
+        "accounts": [
+            {
+                "id": "213339899",
+                "name": "Richard Burr",
+                "username": "BurrForSenate"
+            },
+            {
+                "id": "21157904",
+                "name": "Richard Burr",
+                "username": "SenatorBurr"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Kevin Cramer",
+        "wiki": "/wiki/Kevin_Cramer",
+        "party": "(R)",
+        "state": "North Dakota",
+        "state_link": "/wiki/List_of_United_States_senators_from_North_Dakota",
+        "id": 66,
+        "accounts": [
+            {
+                "id": "1048784496",
+                "name": "Sen. Kevin Cramer",
+                "username": "SenKevinCramer"
+            },
+            {
+                "id": "28267055",
+                "name": "Kevin Cramer",
+                "username": "kevincramer"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "John Hoeven",
+        "wiki": "/wiki/John_Hoeven",
+        "party": "(R)",
+        "state": "North Dakota",
+        "state_link": "/wiki/List_of_United_States_senators_from_North_Dakota",
+        "id": 67,
+        "accounts": [
+            {
+                "id": "382791093",
+                "name": "Senator John Hoeven",
+                "username": "SenJohnHoeven"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Sherrod Brown",
+        "wiki": "/wiki/Sherrod_Brown",
+        "party": "(D)",
+        "state": "Ohio",
+        "state_link": "/wiki/List_of_United_States_senators_from_Ohio",
+        "id": 68,
+        "accounts": [
+            {
+                "id": "43910797",
+                "name": "Sherrod Brown",
+                "username": "SenSherrodBrown"
+            },
+            {
+                "id": "24768753",
+                "name": "Sherrod Brown",
+                "username": "SherrodBrown"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Rob Portman",
+        "wiki": "/wiki/Rob_Portman",
+        "party": "(R)",
+        "state": "Ohio",
+        "state_link": "/wiki/List_of_United_States_senators_from_Ohio",
+        "id": 69,
+        "accounts": [
+            {
+                "id": "2612307559",
+                "name": "Rob Portman",
+                "username": "robportman"
+            },
+            {
+                "id": "18915145",
+                "name": "Rob Portman",
+                "username": "senrobportman"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jim Inhofe",
+        "wiki": "/wiki/Jim_Inhofe",
+        "party": "(R)",
+        "state": "Oklahoma",
+        "state_link": "/wiki/List_of_United_States_senators_from_Oklahoma",
+        "id": 70,
+        "accounts": [
+            {
+                "id": "20546536",
+                "name": "Inhofe Press Office",
+                "username": "InhofePress"
+            },
+            {
+                "id": "7270292",
+                "name": "Sen. Jim Inhofe",
+                "username": "JimInhofe"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "James Lankford",
+        "wiki": "/wiki/James_Lankford",
+        "party": "(R)",
+        "state": "Oklahoma",
+        "state_link": "/wiki/List_of_United_States_senators_from_Oklahoma",
+        "id": 71,
+        "accounts": [
+            {
+                "id": "225921757",
+                "name": "Sen. James Lankford",
+                "username": "SenatorLankford"
+            },
+            {
+                "id": "27044466",
+                "name": "James Lankford",
+                "username": "jameslankford"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jeff Merkley",
+        "wiki": "/wiki/Jeff_Merkley",
+        "party": "(D)",
+        "state": "Oregon",
+        "state_link": "/wiki/List_of_United_States_senators_from_Oregon",
+        "id": 72,
+        "accounts": [
+            {
+                "id": "223166587",
+                "name": "Jeff Merkley",
+                "username": "JeffMerkley"
+            },
+            {
+                "id": "29201047",
+                "name": "Senator Jeff Merkley",
+                "username": "SenJeffMerkley"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Ron Wyden",
+        "wiki": "/wiki/Ron_Wyden",
+        "party": "(D)",
+        "state": "Oregon",
+        "state_link": "/wiki/List_of_United_States_senators_from_Oregon",
+        "id": 73,
+        "accounts": [
+            {
+                "id": "292495654",
+                "name": "WydenPress",
+                "username": "WydenPress"
+            },
+            {
+                "id": "250188760",
+                "name": "Ron Wyden",
+                "username": "RonWyden"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Bob Casey Jr.",
+        "wiki": "/wiki/Bob_Casey_Jr.",
+        "party": "(D)",
+        "state": "Pennsylvania",
+        "state_link": "/wiki/List_of_United_States_senators_from_Pennsylvania",
+        "id": 74,
+        "accounts": [
+            {
+                "id": "171598736",
+                "name": "Senator Bob Casey",
+                "username": "SenBobCasey"
+            },
+            {
+                "id": "94154021",
+                "name": "Bob Casey Jr.",
+                "username": "Bob_Casey"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Pat Toomey",
+        "wiki": "/wiki/Pat_Toomey",
+        "party": "(R)",
+        "state": "Pennsylvania",
+        "state_link": "/wiki/List_of_United_States_senators_from_Pennsylvania",
+        "id": 75,
+        "accounts": [
+            {
+                "id": "221162525",
+                "name": "Senator Pat Toomey",
+                "username": "SenToomey"
+            },
+            {
+                "id": "26062385",
+                "name": "Pat Toomey",
+                "username": "PatToomey"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Sheldon Whitehouse",
+        "wiki": "/wiki/Sheldon_Whitehouse",
+        "party": "(D)",
+        "state": "Rhode Island",
+        "state_link": "/wiki/List_of_United_States_senators_from_Rhode_Island",
+        "id": 76,
+        "accounts": [
+            {
+                "id": "770121222",
+                "name": "Sheldon Whitehouse",
+                "username": "SheldonforRI"
+            },
+            {
+                "id": "242555999",
+                "name": "Sheldon Whitehouse",
+                "username": "SenWhitehouse"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Jack Reed",
+        "wiki": "/wiki/Jack_Reed_(Rhode_Island_politician)",
+        "party": "(D)",
+        "state": "Rhode Island",
+        "state_link": "/wiki/List_of_United_States_senators_from_Rhode_Island",
+        "id": 77,
+        "accounts": [
+            {
+                "id": "486694111",
+                "name": "Senator Jack Reed",
+                "username": "SenJackReed"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Lindsey Graham",
+        "wiki": "/wiki/Lindsey_Graham",
+        "party": "(R)",
+        "state": "South Carolina",
+        "state_link": "/wiki/List_of_United_States_senators_from_South_Carolina",
+        "id": 78,
+        "accounts": [
+            {
+                "id": "432895323",
+                "name": "Lindsey Graham",
+                "username": "LindseyGrahamSC"
+            },
+            {
+                "id": "14845376",
+                "name": "Lindsey Graham",
+                "username": "GrahamBlog"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Tim Scott",
+        "wiki": "/wiki/Tim_Scott",
+        "party": "(R)",
+        "state": "South Carolina",
+        "state_link": "/wiki/List_of_United_States_senators_from_South_Carolina",
+        "id": 79,
+        "accounts": [
+            {
+                "id": "217543151",
+                "name": "Tim Scott",
+                "username": "SenatorTimScott"
+            },
+            {
+                "id": "81191343",
+                "name": "Tim Scott",
+                "username": "votetimscott"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Mike Rounds",
+        "wiki": "/wiki/Mike_Rounds",
+        "party": "(R)",
+        "state": "South Dakota",
+        "state_link": "/wiki/List_of_United_States_senators_from_South_Dakota",
+        "id": 80,
+        "accounts": [
+            {
+                "id": "2955485182",
+                "name": "Senator Mike Rounds",
+                "username": "SenatorRounds"
+            },
+            {
+                "id": "978029858",
+                "name": "Mike Rounds",
+                "username": "RoundsforSenate"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "John Thune",
+        "wiki": "/wiki/John_Thune",
+        "party": "(R)",
+        "state": "South Dakota",
+        "state_link": "/wiki/List_of_United_States_senators_from_South_Dakota",
+        "id": 81,
+        "accounts": [
+            {
+                "id": "296361085",
+                "name": "Senator John Thune",
+                "username": "SenJohnThune"
+            },
+            {
+                "id": "26533227",
+                "name": "John Thune",
+                "username": "johnthune"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Marsha Blackburn",
+        "wiki": "/wiki/Marsha_Blackburn",
+        "party": "(R)",
+        "state": "Tennessee",
+        "state_link": "/wiki/List_of_United_States_senators_from_Tennessee",
+        "id": 82,
+        "accounts": [
+            {
+                "id": "278145569",
+                "name": "Sen. Marsha Blackburn",
+                "username": "MarshaBlackburn"
+            },
+            {
+                "id": "63150856",
+                "name": "Marsha Blackburn",
+                "username": "VoteMarsha"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Bill Hagerty",
+        "wiki": "/wiki/Bill_Hagerty",
+        "party": "(R)",
+        "state": "Tennessee",
+        "state_link": "/wiki/List_of_United_States_senators_from_Tennessee",
+        "id": 83,
+        "accounts": [
+            {
+                "id": "1346873610875654147",
+                "name": "Senator Bill Hagerty",
+                "username": "SenatorHagerty"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Ted Cruz",
+        "wiki": "/wiki/Ted_Cruz",
+        "party": "(R)",
+        "state": "Texas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Texas",
+        "id": 84,
+        "accounts": [
+            {
+                "id": "1074480192",
+                "name": "Senator Ted Cruz",
+                "username": "SenTedCruz"
+            },
+            {
+                "id": "23022687",
+                "name": "Ted Cruz",
+                "username": "tedcruz"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "John Cornyn",
+        "wiki": "/wiki/John_Cornyn",
+        "party": "(R)",
+        "state": "Texas",
+        "state_link": "/wiki/List_of_United_States_senators_from_Texas",
+        "id": 85,
+        "accounts": [
+            {
+                "id": "13218102",
+                "name": "Senator John Cornyn",
+                "username": "JohnCornyn"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Mitt Romney",
+        "wiki": "/wiki/Mitt_Romney",
+        "party": "(R)",
+        "state": "Utah",
+        "state_link": "/wiki/List_of_United_States_senators_from_Utah",
+        "id": 86,
+        "accounts": [
+            {
+                "id": "1078693601356509184",
+                "name": "Senator Mitt Romney",
+                "username": "SenatorRomney"
+            },
+            {
+                "id": "50055701",
+                "name": "Mitt Romney",
+                "username": "MittRomney"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Mike Lee",
+        "wiki": "/wiki/Mike_Lee_(American_politician)",
+        "party": "(R)",
+        "state": "Utah",
+        "state_link": "/wiki/List_of_United_States_senators_from_Utah",
+        "id": 87,
+        "accounts": [
+            {
+                "id": "2164909022",
+                "name": "Mike Lee",
+                "username": "MikeLeeforUtah"
+            },
+            {
+                "id": "88784440",
+                "name": "Mike Lee",
+                "username": "SenMikeLee"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Bernie Sanders",
+        "wiki": "/wiki/Bernie_Sanders",
+        "party": "(I)",
+        "state": "Vermont",
+        "state_link": "/wiki/List_of_United_States_senators_from_Vermont",
+        "id": 88,
+        "accounts": [
+            {
+                "id": "216776631",
+                "name": "Bernie Sanders",
+                "username": "BernieSanders"
+            },
+            {
+                "id": "29442313",
+                "name": "Bernie Sanders",
+                "username": "SenSanders"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Patrick Leahy",
+        "wiki": "/wiki/Patrick_Leahy",
+        "party": "(D)",
+        "state": "Vermont",
+        "state_link": "/wiki/List_of_United_States_senators_from_Vermont",
+        "id": 89,
+        "accounts": [
+            {
+                "id": "242836537",
+                "name": "Sen. Patrick Leahy",
+                "username": "SenatorLeahy"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Tim Kaine",
+        "wiki": "/wiki/Tim_Kaine",
+        "party": "(D)",
+        "state": "Virginia",
+        "state_link": "/wiki/List_of_United_States_senators_from_Virginia",
+        "id": 90,
+        "accounts": [
+            {
+                "id": "172858784",
+                "name": "Tim Kaine",
+                "username": "timkaine"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Mark Warner",
+        "wiki": "/wiki/Mark_Warner",
+        "party": "(D)",
+        "state": "Virginia",
+        "state_link": "/wiki/List_of_United_States_senators_from_Virginia",
+        "id": 91,
+        "accounts": [
+            {
+                "id": "409719505",
+                "name": "Mark Warner HQ",
+                "username": "MarkWarnerVA"
+            },
+            {
+                "id": "7429102",
+                "name": "Mark Warner",
+                "username": "MarkWarner"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Maria Cantwell",
+        "wiki": "/wiki/Maria_Cantwell",
+        "party": "(D)",
+        "state": "Washington",
+        "state_link": "/wiki/List_of_United_States_senators_from_Washington",
+        "id": 92,
+        "accounts": [
+            {
+                "id": "117501995",
+                "name": "Sen. Maria Cantwell",
+                "username": "SenatorCantwell"
+            },
+            {
+                "id": "35567751",
+                "name": "Maria Cantwell",
+                "username": "MariaCantwell"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Patty Murray",
+        "wiki": "/wiki/Patty_Murray",
+        "party": "(D)",
+        "state": "Washington",
+        "state_link": "/wiki/List_of_United_States_senators_from_Washington",
+        "id": 93,
+        "accounts": [
+            {
+                "id": "293131808",
+                "name": "Senator Patty Murray",
+                "username": "PattyMurray"
+            },
+            {
+                "id": "158470209",
+                "name": "Senator Patty Murray",
+                "username": "MurrayCampaign"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Joe Manchin",
+        "wiki": "/wiki/Joe_Manchin",
+        "party": "(D)",
+        "state": "West Virginia",
+        "state_link": "/wiki/List_of_United_States_senators_from_West_Virginia",
+        "id": 94,
+        "accounts": [
+            {
+                "id": "234374703",
+                "name": "Senator Joe Manchin",
+                "username": "Sen_JoeManchin"
+            },
+            {
+                "id": "113355380",
+                "name": "Joe Manchin",
+                "username": "JoeManchinWV"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Shelley Moore Capito",
+        "wiki": "/wiki/Shelley_Moore_Capito",
+        "party": "(R)",
+        "state": "West Virginia",
+        "state_link": "/wiki/List_of_United_States_senators_from_West_Virginia",
+        "id": 95,
+        "accounts": [
+            {
+                "id": "193794406",
+                "name": "Shelley Moore Capito",
+                "username": "SenCapito"
+            },
+            {
+                "id": "158890005",
+                "name": "Capito for WV",
+                "username": "CapitoforWV"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "Tammy Baldwin",
+        "wiki": "/wiki/Tammy_Baldwin",
+        "party": "(D)",
+        "state": "Wisconsin",
+        "state_link": "/wiki/List_of_United_States_senators_from_Wisconsin",
+        "id": 96,
+        "accounts": [
+            {
+                "id": "1074518754",
+                "name": "Sen. Tammy Baldwin",
+                "username": "SenatorBaldwin"
+            },
+            {
+                "id": "87510313",
+                "name": "Tammy Baldwin",
+                "username": "tammybaldwin"
+            }
+        ]
+    },
+    {
+        "class": 3,
+        "name": "Ron Johnson",
+        "wiki": "/wiki/Ron_Johnson_(Wisconsin_politician)",
+        "party": "(R)",
+        "state": "Wisconsin",
+        "state_link": "/wiki/List_of_United_States_senators_from_Wisconsin",
+        "id": 97,
+        "accounts": [
+            {
+                "id": "233737858",
+                "name": "Senator Ron Johnson",
+                "username": "SenRonJohnson"
+            },
+            {
+                "id": "142332083",
+                "name": "Ron Johnson",
+                "username": "RonJohnsonWI"
+            }
+        ]
+    },
+    {
+        "class": 1,
+        "name": "John Barrasso",
+        "wiki": "/wiki/John_Barrasso",
+        "party": "(R)",
+        "state": "Wyoming",
+        "state_link": "/wiki/List_of_United_States_senators_from_Wyoming",
+        "id": 98,
+        "accounts": [
+            {
+                "id": "202206694",
+                "name": "Sen. John Barrasso",
+                "username": "SenJohnBarrasso"
+            }
+        ]
+    },
+    {
+        "class": 2,
+        "name": "Cynthia Lummis",
+        "wiki": "/wiki/Cynthia_Lummis",
+        "party": "(R)",
+        "state": "Wyoming",
+        "state_link": "/wiki/List_of_United_States_senators_from_Wyoming",
+        "id": 99,
+        "accounts": [
+            {
+                "id": "1136711154435207168",
+                "name": "Cynthia Lummis 🦬",
+                "username": "CynthiaMLummis"
+            },
+            {
+                "id": "22831059",
+                "name": "Senator Cynthia Lummis",
+                "username": "SenLummis"
+            }
+        ]
+    }
+]
