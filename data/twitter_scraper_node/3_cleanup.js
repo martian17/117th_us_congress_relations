@@ -1,3 +1,5 @@
+// execute as `node 3_cleanup.js > 3_senators_mapped.json`
+
 let fs = require("fs");
 
 let {sen_all,sen_100} = JSON.parse(fs.readFileSync("./2_intersection_corrected.json"));

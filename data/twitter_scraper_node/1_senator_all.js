@@ -1,3 +1,4 @@
+//execute as `node 1_senator_all.js 1_senator_all.json`
 //results in 1_senator_all.json
 
 
