@@ -57,7 +57,7 @@ let get_all_data = async function(url,queries={}){//queries is an object
     let result = [];
     let cnt = 0;
     while(true){
-        stderr.log(`page: ${cnt}`);
+        stderr.log(`    page: ${cnt}`);
         let response = await request_async({
             hostname:"api.twitter.com",
             port:443,
