@@ -81,7 +81,7 @@ let get_all_data = async function(url,queries={}){//queries is an object
         }
         if(!("data" in r)){
             if(r.meta?.result_count === 0){
-                stderr.log(`result contains no data, setting it to an empty array`);
+                stderr.log(`    result contains no data, setting it to an empty array`);
                 r.data = [];
             }else{
                 stderr.log(`    unknown failure mode\n    ${JSON.stringify(r)}`);
