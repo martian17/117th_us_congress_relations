@@ -44,7 +44,7 @@ let main = async function(){
     stderr.log("The results are stored inside the \"connections\" global variable");
     stderr.log("The senator metadata is available inside the \"senators\" global variable");
     stderr.log(`You can access them by running "node-repl 4_get_connections.js"`);
-    stderr.log(`The results are cached, so this time it will be quick`);
+    stderr.log(`The results are cached, so the next time around it will be quick`);
 };
 
 main();
