@@ -3,7 +3,8 @@
 let fs = require("fs");
 let {request_async,get_response_body} = require("./request.js");
 let {toQueries,Pause,stderr} = require("./util.js");
-let {API_key, API_key_secret, Bearer_Token} = JSON.parse(fs.readFileSync("../tokens.json"));
+let path = require("path");
+let {API_key, API_key_secret, Bearer_Token} = JSON.parse(fs.readFileSync(path.join(__dirname,"../tokens.json")));
 
 
 let get_all_data = async function(url,queries={}){//queries is an object
