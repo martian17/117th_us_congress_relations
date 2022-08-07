@@ -9,7 +9,7 @@ stderr.log(`When I ran this script in Aug. 5 2022, there were 18 errors, and the
 stderr.log(`I was able to fix them by ctrl+f the problematic ID in the result file\n`);
 
 stderr.log(`If you can't manually find the account owner in the list of senators, \
-it might be the case that the senator is retired. So add a note in the object that they are retired, as in this example:`);
+it might be that the senator is retired. In such a case, add a note in the JSON object that they are retired, as in this example:`);
 stderr.log(`{
     "id": "76649729",
     "name": "Lamar Alexander",
