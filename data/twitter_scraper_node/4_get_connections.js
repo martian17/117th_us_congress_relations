@@ -11,13 +11,13 @@ let get_following_ids = async function(id){
 
 
 let senators = JSON.parse(fs.readFileSync("./3_senators_mapped.json"));
+//read the current state of the log file
+if(!fs.existsSync("4_connections.json")){
+    fs.writeFileSync("./4_connections.json","{}","utf-8");
+}
 let connections = JSON.parse(fs.readFileSync("./4_connections.json"));
 
 let main = async function(){
-    //read the current state of the log file
-    if(!fs.existsSync("4_connections.json")){
-        fs.writeFileSync("./4_connections.json","{}","utf-8");
-    }
     for(sen of senators){
         stderr.log(`\nlooking at ${sen.name}`);
         for(acc of sen.accounts){
