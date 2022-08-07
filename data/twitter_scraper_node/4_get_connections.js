@@ -8,6 +8,7 @@ let get_following_ids = async function(id){
 
 
 
+let senators = JSON.parse(fs.readFileSync("./3_senators_mapped.json"));
 let connections = JSON.parse(fs.readFileSync("./4_connections.json"));
 
 let main = async function(){
