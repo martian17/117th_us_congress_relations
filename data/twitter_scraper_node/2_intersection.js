@@ -92,9 +92,16 @@ for(let account of sen_all){
 }
 
 
-console.log(JSON.stringify({
-    sen_100,sen_all
-},null,4));
+stderr.log(`Execution complete`);
+fs.writeFileSync(
+    "./2_intersection.json",
+    //beautify the formatting
+    JSON.stringify({
+        sen_100,sen_all
+    },null,4)+"\n",
+    "utf-8"
+);
+stderr.log("Written the result to 2_intersection.json");
 
 
 
