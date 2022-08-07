@@ -13,7 +13,7 @@ for(let sen of sen_100){
 //map the account to sen_100
 for(let account of sen_all){
     if(account.owners.length !== 1){
-        stderr.write(`irregular account: ${JSON.stringify(account,null,4)}\n`);
+        stderr.log(`irregular account: ${JSON.stringify(account,null,4)}\n`);
         continue;
     }
     let owner = account.owners[0];
