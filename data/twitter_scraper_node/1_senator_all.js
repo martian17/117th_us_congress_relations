@@ -1,4 +1,4 @@
-//results in 1_senator_all.json
+//the result will be stored in 1_senator_all.json
 
 let fs = require("fs");
 let {stderr} = require("./utils/util.js");

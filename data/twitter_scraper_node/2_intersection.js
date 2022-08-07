@@ -1,4 +1,4 @@
-//execute as `node 2_intersection.js > 2_intersection.json`
+//the result will be stored in 2_intersection.json
 
 let fs = require("fs");
 let {stderr} = require("./utils/util.js");
@@ -64,8 +64,7 @@ for(let sen of sen_100){
     }
 }
 
-//multiple potential owners, this will need to be resolved by hand
-//execute `node 2_intersection.js > 2_intersection.json` and search through the file and correct it
+//handling multiple potential owners, this will need to be resolved by hand
 for(let account of sen_all){
     if(account.owners.length === 0){
         stderr.log(`no owner found: id = ${account.id}`);
