@@ -22,7 +22,7 @@ for(let key in connections){
 }
 stderr.log("Filtering complete");
 fs.writeFileSync("./5_outbound.json",JSON.stringify(outbound),"utf-8");
-stderr.log("Written outbound connections to 5_outbound.json\n");
+stderr.log("Outbound connections written to 5_outbound.json\n");
 
 
 
@@ -44,7 +44,7 @@ let reverseGraphMapping = function(graph){
 let inbound = reverseGraphMapping(outbound);
 stderr.log("outbound -> inbound mapping complete");
 fs.writeFileSync("./5_inbound.json",JSON.stringify(inbound),"utf-8");
-stderr.log("Written inbound connections to 5_inbound.json\n");
+stderr.log("Inbound connections written to 5_inbound.json\n");
 
 
 
