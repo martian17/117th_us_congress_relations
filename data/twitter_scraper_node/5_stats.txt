@@ -1,0 +1,565 @@
+Table of contents:
+Lines 9-191: Number of following in total
+Lines 196-378: Number of senators they follow
+Lines 383-565: Number of follows by other senators
+
+
+
+# Number of following in total #
+Amy Klobuchar: following 132456 accounts in total
+Cory Booker: following 87179 accounts in total
+Chuck Schumer: following 24023 accounts in total
+Mark Warner: following 22986 accounts in total
+Senator John Cornyn: following 12776 accounts in total
+ChuckGrassley: following 12728 accounts in total
+Jeff Merkley: following 9488 accounts in total
+Menendez for NJ: following 8775 accounts in total
+Tammy Duckworth: following 7409 accounts in total
+Senator Roy Blunt: following 6552 accounts in total
+Sen. Cory Booker: following 5672 accounts in total
+Thom Tillis: following 5592 accounts in total
+Senator Ted Cruz: following 5499 accounts in total
+Ted Cruz: following 5376 accounts in total
+Richard Burr: following 5300 accounts in total
+Rob Portman: following 5031 accounts in total
+Senator Amy Klobuchar: following 5028 accounts in total
+Sherrod Brown: following 4908 accounts in total
+Pat Toomey: following 4351 accounts in total
+Senator Thom Tillis: following 4303 accounts in total
+Tammy Baldwin: following 4292 accounts in total
+Tina Smith: following 4260 accounts in total
+Senator Chris Coons: following 4223 accounts in total
+Sen. Grassley Press: following 4052 accounts in total
+Ron Johnson: following 3939 accounts in total
+Sheldon Whitehouse: following 3822 accounts in total
+Tim Scott: following 3796 accounts in total
+Senator Ben Cardin: following 3433 accounts in total
+Ed Markey: following 3276 accounts in total
+Tammy Duckworth: following 3242 accounts in total
+Brian Schatz: following 3176 accounts in total
+Senator Jerry Moran: following 3092 accounts in total
+Jon Tester: following 2999 accounts in total
+Sen. Jeanne Shaheen: following 2861 accounts in total
+Michael Bennet: following 2762 accounts in total
+Sen. Patrick Leahy: following 2750 accounts in total
+Sen. Tammy Baldwin: following 2716 accounts in total
+Marco Rubio: following 2550 accounts in total
+Marsha Blackburn: following 2529 accounts in total
+John Neely Kennedy: following 2440 accounts in total
+Senator Dick Durbin: following 2423 accounts in total
+Senator Patty Murray: following 2394 accounts in total
+Bernie Sanders: following 2324 accounts in total
+Sen. Debbie Stabenow: following 2262 accounts in total
+Sen. Maria Cantwell: following 2236 accounts in total
+James Lankford: following 2190 accounts in total
+Senator Tina Smith: following 2160 accounts in total
+Mike Lee: following 2131 accounts in total
+Mark Warner HQ: following 2048 accounts in total
+Lindsey Graham: following 2032 accounts in total
+Sen. Marsha Blackburn: following 2007 accounts in total
+Lindsey Graham: following 1931 accounts in total
+Sheldon Whitehouse: following 1931 accounts in total
+Senator Tom Carper: following 1924 accounts in total
+Ed Markey: following 1822 accounts in total
+Ben Cardin: following 1735 accounts in total
+Senator Mazie Hirono: following 1612 accounts in total
+Rob Portman: following 1559 accounts in total
+Rick Scott: following 1520 accounts in total
+Deb Fischer: following 1497 accounts in total
+Bernie Sanders: following 1472 accounts in total
+U.S. Senator Bill Cassidy, M.D.: following 1435 accounts in total
+John Kennedy: following 1304 accounts in total
+Senator Brian Schatz: following 1291 accounts in total
+Bill Cassidy, M.D.: following 1275 accounts in total
+Tim Scott: following 1263 accounts in total
+Senator Gary Peters: following 1255 accounts in total
+Todd Young: following 1236 accounts in total
+Dr. Roger Marshall: following 1216 accounts in total
+Dick Durbin: following 1205 accounts in total
+Inhofe Press Office: following 1192 accounts in total
+Shelley Moore Capito: following 1090 accounts in total
+Kirsten Gillibrand: following 1085 accounts in total
+Senator Jeff Merkley: following 1077 accounts in total
+John Thune: following 1062 accounts in total
+Senator Bob Menendez: following 1054 accounts in total
+Ben Ray Luján: following 1048 accounts in total
+Senator Pat Toomey: following 1027 accounts in total
+Senator Ben Ray Luján: following 996 accounts in total
+Senator Ron Johnson: following 994 accounts in total
+Senator Jon Tester: following 993 accounts in total
+Richard Blumenthal: following 989 accounts in total
+Tom Cotton: following 962 accounts in total
+Senator Chris Van Hollen: following 959 accounts in total
+Ben Sasse: following 959 accounts in total
+Sen. Susan Collins: following 953 accounts in total
+Josh Hawley: following 933 accounts in total
+Senator Cortez Masto: following 930 accounts in total
+Senator Joe Manchin: following 911 accounts in total
+Senator Bob Casey: following 906 accounts in total
+Maria Cantwell: following 893 accounts in total
+Senator John Boozman: following 864 accounts in total
+Richard Burr: following 858 accounts in total
+Senator Hawley Press Office: following 858 accounts in total
+Catherine Cortez Masto: following 817 accounts in total
+Senator Jacky Rosen: following 817 accounts in total
+Gary Peters: following 797 accounts in total
+Senator Cynthia Lummis: following 792 accounts in total
+Senator Mike Crapo: following 776 accounts in total
+Tim Kaine: following 771 accounts in total
+Senator John Hoeven: following 765 accounts in total
+Kamala Harris: following 731 accounts in total
+Kyrsten Sinema: following 731 accounts in total
+John Hickenlooper: following 728 accounts in total
+Tommy Tuberville: following 727 accounts in total
+Sen. Dan Sullivan: following 725 accounts in total
+Sen. James Lankford: following 723 accounts in total
+John Boozman: following 697 accounts in total
+WydenPress: following 688 accounts in total
+Martin Heinrich: following 686 accounts in total
+Senator Rubio Press: following 663 accounts in total
+U.S. Senator Cindy Hyde-Smith: following 661 accounts in total
+Steve Daines: following 659 accounts in total
+Kelly Loeffler: following 657 accounts in total
+Jacky Rosen: following 656 accounts in total
+Tom Carper: following 651 accounts in total
+Ron Wyden: following 627 accounts in total
+Jim Risch for US Senate: following 608 accounts in total
+Senator Roger Wicker: following 606 accounts in total
+Sen. Kevin Cramer: following 604 accounts in total
+Sen. Lisa Murkowski: following 589 accounts in total
+Dan Sullivan: following 580 accounts in total
+Senator Mike Rounds: following 571 accounts in total
+Rand Paul: following 568 accounts in total
+Senator Angus King: following 566 accounts in total
+Elizabeth Warren: following 565 accounts in total
+Mazie Hirono: following 563 accounts in total
+Ossoff's Office: following 552 accounts in total
+Sen. Maggie Hassan: following 547 accounts in total
+Richard Shelby: following 545 accounts in total
+Jeanne Shaheen: following 534 accounts in total
+Sen. John Barrasso: following 533 accounts in total
+Elizabeth Warren: following 515 accounts in total
+Senator Todd Young: following 507 accounts in total
+Cynthia Lummis 🦬: following 493 accounts in total
+Lisa Murkowski: following 485 accounts in total
+Capito for WV: following 465 accounts in total
+RoyBluntMO: following 462 accounts in total
+Bob Casey Jr.: following 453 accounts in total
+Jim Risch: following 439 accounts in total
+Senator Patty Murray: following 404 accounts in total
+Senator John Hickenlooper: following 398 accounts in total
+Michael Bennet: following 395 accounts in total
+Senator McConnell Press: following 364 accounts in total
+Tom Cotton: following 362 accounts in total
+Sherrod Brown: following 344 accounts in total
+Sen. Jim Inhofe: following 343 accounts in total
+Senator John Thune: following 342 accounts in total
+Senator Mike Braun: following 323 accounts in total
+Mitt Romney: following 296 accounts in total
+Dianne Feinstein: following 293 accounts in total
+Kyrsten Sinema: following 276 accounts in total
+Rand Paul: following 274 accounts in total
+Chris Van Hollen: following 271 accounts in total
+Senator Dianne Feinstein: following 260 accounts in total
+Maggie Hassan: following 254 accounts in total
+Sen. Kirsten Gillibrand: following 253 accounts in total
+Chris Murphy: following 252 accounts in total
+Coach Tommy Tuberville: following 252 accounts in total
+Mike Lee: following 245 accounts in total
+Debbie Stabenow: following 239 accounts in total
+Senator Deb Fischer: following 203 accounts in total
+Cindy Hyde-Smith: following 199 accounts in total
+Joni Ernst: following 161 accounts in total
+Senator Bill Hagerty: following 160 accounts in total
+Kevin Cramer: following 140 accounts in total
+Chuck Schumer: following 140 accounts in total
+Senator Mitt Romney: following 139 accounts in total
+Joni Ernst: following 125 accounts in total
+Leader McConnell: following 110 accounts in total
+Senator Kelly Loeffler: following 109 accounts in total
+Office of Sen. Coons: following 106 accounts in total
+Mike Rounds: following 86 accounts in total
+Roger Wicker: following 83 accounts in total
+Senator Jack Reed: following 48 accounts in total
+Angus King: following 45 accounts in total
+Joe Manchin: following 41 accounts in total
+Mike Braun: following 34 accounts in total
+Sen. Murphy Office: following 29 accounts in total
+Rick Scott: following 18 accounts in total
+Senator Ben Sasse: following 1 accounts in total
+Senator Mark Kelly: following 1 accounts in total
+Sen. Marshall: following 0 accounts in total
+
+
+
+# Number of senators they follow #
+Senator John Cornyn: following 127 other senators
+Cory Booker: following 118 other senators
+Amy Klobuchar: following 116 other senators
+Dr. Roger Marshall: following 116 other senators
+Senator Ron Johnson: following 113 other senators
+Sen. Lisa Murkowski: following 112 other senators
+Sen. James Lankford: following 110 other senators
+Tim Scott: following 108 other senators
+John Kennedy: following 107 other senators
+Senator Joe Manchin: following 104 other senators
+Sen. Maggie Hassan: following 104 other senators
+Senator Thom Tillis: following 103 other senators
+Ed Markey: following 102 other senators
+Sen. Maria Cantwell: following 102 other senators
+Senator Mike Rounds: following 102 other senators
+Senator Chris Coons: following 101 other senators
+Senator Tom Carper: following 100 other senators
+Senator Jon Tester: following 100 other senators
+Senator Amy Klobuchar: following 99 other senators
+Senator Deb Fischer: following 99 other senators
+Senator Ben Cardin: following 98 other senators
+Senator Mike Crapo: following 98 other senators
+Senator Bob Casey: following 97 other senators
+Mark Warner: following 96 other senators
+Rob Portman: following 96 other senators
+Sen. Susan Collins: following 96 other senators
+Senator Mitt Romney: following 96 other senators
+Senator Jeff Merkley: following 94 other senators
+Rick Scott: following 94 other senators
+Kyrsten Sinema: following 94 other senators
+Michael Bennet: following 93 other senators
+Ossoff's Office: following 93 other senators
+Sen. Tammy Baldwin: following 92 other senators
+Sen. Kirsten Gillibrand: following 92 other senators
+Sherrod Brown: following 91 other senators
+Senator Cortez Masto: following 90 other senators
+Senator Jerry Moran: following 87 other senators
+Senator Angus King: following 84 other senators
+Senator John Hickenlooper: following 84 other senators
+Senator Bill Hagerty: following 83 other senators
+Tammy Duckworth: following 82 other senators
+Senator John Hoeven: following 81 other senators
+Senator Patty Murray: following 80 other senators
+Richard Shelby: following 77 other senators
+Shelley Moore Capito: following 77 other senators
+Senator Gary Peters: following 77 other senators
+Sen. Dan Sullivan: following 77 other senators
+Mike Lee: following 76 other senators
+Senator Pat Toomey: following 74 other senators
+Sen. Cory Booker: following 74 other senators
+Coach Tommy Tuberville: following 74 other senators
+U.S. Senator Bill Cassidy, M.D.: following 74 other senators
+Senator Tina Smith: following 74 other senators
+Senator Dick Durbin: following 73 other senators
+Elizabeth Warren: following 73 other senators
+Senator Chris Van Hollen: following 72 other senators
+Senator Bob Menendez: following 72 other senators
+Tom Cotton: following 71 other senators
+Richard Burr: following 70 other senators
+Sen. Jeanne Shaheen: following 70 other senators
+Kirsten Gillibrand: following 69 other senators
+Senator Mazie Hirono: following 69 other senators
+Senator Dianne Feinstein: following 69 other senators
+Senator Mike Braun: following 68 other senators
+Chuck Schumer: following 67 other senators
+Sen. Debbie Stabenow: following 67 other senators
+Ron Wyden: following 67 other senators
+Richard Blumenthal: following 66 other senators
+Sen. John Barrasso: following 65 other senators
+Sheldon Whitehouse: following 65 other senators
+Sen. Marsha Blackburn: following 65 other senators
+Senator Roy Blunt: following 64 other senators
+Brian Schatz: following 64 other senators
+Dianne Feinstein: following 64 other senators
+Senator Jacky Rosen: following 63 other senators
+Senator Cynthia Lummis: following 62 other senators
+Tina Smith: following 62 other senators
+Senator Roger Wicker: following 62 other senators
+Jim Risch: following 60 other senators
+Martin Heinrich: following 60 other senators
+Senator Ben Ray Luján: following 58 other senators
+Kelly Loeffler: following 58 other senators
+U.S. Senator Cindy Hyde-Smith: following 56 other senators
+Senator Hawley Press Office: following 56 other senators
+Sen. Patrick Leahy: following 55 other senators
+Senator McConnell Press: following 54 other senators
+Office of Sen. Coons: following 54 other senators
+Catherine Cortez Masto: following 54 other senators
+Steve Daines: following 53 other senators
+Marco Rubio: following 53 other senators
+Senator Ted Cruz: following 53 other senators
+Ben Ray Luján: following 52 other senators
+Joni Ernst: following 52 other senators
+Tom Cotton: following 51 other senators
+Dick Durbin: following 50 other senators
+Sen. Kevin Cramer: following 49 other senators
+Leader McConnell: following 49 other senators
+Senator Rubio Press: following 48 other senators
+Jeanne Shaheen: following 45 other senators
+John Neely Kennedy: following 44 other senators
+Ben Cardin: following 44 other senators
+Sheldon Whitehouse: following 44 other senators
+Maria Cantwell: following 42 other senators
+Cindy Hyde-Smith: following 42 other senators
+Senator John Thune: following 42 other senators
+Cynthia Lummis 🦬: following 42 other senators
+Senator John Boozman: following 41 other senators
+Chuck Schumer: following 40 other senators
+Bernie Sanders: following 39 other senators
+Senator Kelly Loeffler: following 39 other senators
+Inhofe Press Office: following 38 other senators
+Bob Casey Jr.: following 38 other senators
+Todd Young: following 36 other senators
+Rand Paul: following 36 other senators
+Tom Carper: following 36 other senators
+John Boozman: following 35 other senators
+Ed Markey: following 35 other senators
+Lindsey Graham: following 31 other senators
+Tim Kaine: following 31 other senators
+Ron Johnson: following 30 other senators
+Tammy Duckworth: following 30 other senators
+Jeff Merkley: following 29 other senators
+Senator Jack Reed: following 29 other senators
+Tommy Tuberville: following 27 other senators
+Ted Cruz: following 26 other senators
+Lindsey Graham: following 25 other senators
+Senator Brian Schatz: following 25 other senators
+Senator Todd Young: following 24 other senators
+ChuckGrassley: following 23 other senators
+Mazie Hirono: following 22 other senators
+WydenPress: following 21 other senators
+Tim Scott: following 20 other senators
+James Lankford: following 19 other senators
+Chris Murphy: following 19 other senators
+Jim Risch for US Senate: following 19 other senators
+Jacky Rosen: following 19 other senators
+Kamala Harris: following 18 other senators
+Marsha Blackburn: following 18 other senators
+Menendez for NJ: following 18 other senators
+Sen. Jim Inhofe: following 16 other senators
+John Hickenlooper: following 16 other senators
+Michael Bennet: following 15 other senators
+Bill Cassidy, M.D.: following 15 other senators
+Senator Patty Murray: following 14 other senators
+Joni Ernst: following 14 other senators
+Rob Portman: following 14 other senators
+Sherrod Brown: following 13 other senators
+Mitt Romney: following 13 other senators
+Dan Sullivan: following 12 other senators
+Mike Lee: following 12 other senators
+Bernie Sanders: following 11 other senators
+Mark Warner HQ: following 11 other senators
+Jon Tester: following 10 other senators
+Chris Van Hollen: following 9 other senators
+Debbie Stabenow: following 8 other senators
+Roger Wicker: following 7 other senators
+Kevin Cramer: following 7 other senators
+Gary Peters: following 7 other senators
+Richard Burr: following 7 other senators
+Ben Sasse: following 7 other senators
+Josh Hawley: following 7 other senators
+Thom Tillis: following 6 other senators
+Tammy Baldwin: following 6 other senators
+Deb Fischer: following 6 other senators
+Elizabeth Warren: following 6 other senators
+Maggie Hassan: following 6 other senators
+Capito for WV: following 4 other senators
+Pat Toomey: following 3 other senators
+Rand Paul: following 3 other senators
+Sen. Grassley Press: following 3 other senators
+Kyrsten Sinema: following 2 other senators
+Lisa Murkowski: following 2 other senators
+Rick Scott: following 2 other senators
+RoyBluntMO: following 2 other senators
+Mike Rounds: following 2 other senators
+John Thune: following 1 other senators
+Joe Manchin: following 1 other senators
+Mike Braun: following 1 other senators
+Senator Ben Sasse: following 1 other senators
+Angus King: following 0 other senators
+Sen. Murphy Office: following 0 other senators
+Senator Mark Kelly: following 0 other senators
+Sen. Marshall: following 0 other senators
+
+
+
+# Number of follows by other senators #
+ChuckGrassley: followed by 105 other senators
+Sen. Susan Collins: followed by 105 other senators
+Sen. Lisa Murkowski: followed by 102 other senators
+Tim Scott: followed by 101 other senators
+Senator John Cornyn: followed by 99 other senators
+Rob Portman: followed by 97 other senators
+Mike Lee: followed by 97 other senators
+Senator John Hoeven: followed by 97 other senators
+Sen. John Barrasso: followed by 96 other senators
+Senator Roy Blunt: followed by 94 other senators
+Senator Mike Crapo: followed by 94 other senators
+Cory Booker: followed by 93 other senators
+Senator Ron Johnson: followed by 92 other senators
+Senator Roger Wicker: followed by 92 other senators
+Senator Chris Coons: followed by 91 other senators
+Senator Jerry Moran: followed by 91 other senators
+Richard Burr: followed by 91 other senators
+Kirsten Gillibrand: followed by 91 other senators
+Chris Murphy: followed by 90 other senators
+Senator Pat Toomey: followed by 90 other senators
+Senator Joe Manchin: followed by 89 other senators
+Senator Deb Fischer: followed by 89 other senators
+Jim Risch: followed by 87 other senators
+Senator John Boozman: followed by 86 other senators
+Mark Warner: followed by 86 other senators
+Chuck Schumer: followed by 86 other senators
+Senator John Thune: followed by 86 other senators
+Richard Shelby: followed by 85 other senators
+Tim Kaine: followed by 85 other senators
+Sen. James Lankford: followed by 85 other senators
+Ron Wyden: followed by 85 other senators
+Marco Rubio: followed by 83 other senators
+Senator Jeff Merkley: followed by 83 other senators
+Sen. Dan Sullivan: followed by 83 other senators
+Amy Klobuchar: followed by 82 other senators
+Senator Mazie Hirono: followed by 82 other senators
+Senator Ben Cardin: followed by 82 other senators
+Rand Paul: followed by 82 other senators
+Senator Tom Carper: followed by 82 other senators
+Senator Thom Tillis: followed by 82 other senators
+Senator Dianne Feinstein: followed by 81 other senators
+Sherrod Brown: followed by 80 other senators
+Sen. Patrick Leahy: followed by 80 other senators
+Senator Patty Murray: followed by 80 other senators
+Sheldon Whitehouse: followed by 79 other senators
+Senator Dick Durbin: followed by 79 other senators
+Richard Blumenthal: followed by 79 other senators
+Senator Ted Cruz: followed by 79 other senators
+Martin Heinrich: followed by 79 other senators
+Senator Bob Menendez: followed by 78 other senators
+Senator Bob Casey: followed by 78 other senators
+Senator Angus King: followed by 78 other senators
+Sen. Tammy Baldwin: followed by 78 other senators
+Joni Ernst: followed by 78 other senators
+Sen. Jeanne Shaheen: followed by 77 other senators
+Shelley Moore Capito: followed by 77 other senators
+Senator Jack Reed: followed by 77 other senators
+Senator Jon Tester: followed by 77 other senators
+Tom Cotton: followed by 76 other senators
+Elizabeth Warren: followed by 76 other senators
+Leader McConnell: followed by 76 other senators
+Sen. Debbie Stabenow: followed by 75 other senators
+Brian Schatz: followed by 74 other senators
+Sen. Maria Cantwell: followed by 74 other senators
+Michael Bennet: followed by 74 other senators
+Sen. Jim Inhofe: followed by 73 other senators
+Bernie Sanders: followed by 73 other senators
+John Kennedy: followed by 73 other senators
+Ed Markey: followed by 71 other senators
+Lindsey Graham: followed by 71 other senators
+Lindsey Graham: followed by 70 other senators
+Senator Mike Rounds: followed by 70 other senators
+Senator Gary Peters: followed by 69 other senators
+Kyrsten Sinema: followed by 68 other senators
+Senator Brian Schatz: followed by 68 other senators
+Steve Daines: followed by 67 other senators
+Senator Todd Young: followed by 67 other senators
+Senator Chris Van Hollen: followed by 66 other senators
+Senator McConnell Press: followed by 66 other senators
+Senator Ben Sasse: followed by 65 other senators
+Sen. Maggie Hassan: followed by 64 other senators
+Tammy Duckworth: followed by 64 other senators
+Kamala Harris: followed by 62 other senators
+Sen. Marsha Blackburn: followed by 62 other senators
+Senator Cortez Masto: followed by 62 other senators
+Senator Rubio Press: followed by 61 other senators
+Senator Mitt Romney: followed by 61 other senators
+Sen. Kevin Cramer: followed by 57 other senators
+Senator Tina Smith: followed by 55 other senators
+Bill Cassidy, M.D.: followed by 53 other senators
+Sen. Cory Booker: followed by 53 other senators
+Senator Jacky Rosen: followed by 53 other senators
+Inhofe Press Office: followed by 52 other senators
+Rick Scott: followed by 52 other senators
+Senator Amy Klobuchar: followed by 51 other senators
+Senator Mike Braun: followed by 51 other senators
+Ted Cruz: followed by 49 other senators
+U.S. Senator Bill Cassidy, M.D.: followed by 49 other senators
+Debbie Stabenow: followed by 46 other senators
+Elizabeth Warren: followed by 46 other senators
+Ben Sasse: followed by 45 other senators
+U.S. Senator Cindy Hyde-Smith: followed by 45 other senators
+Senator Cynthia Lummis: followed by 44 other senators
+Senator Mark Kelly: followed by 44 other senators
+Mitt Romney: followed by 43 other senators
+Senator John Hickenlooper: followed by 43 other senators
+Senator Ben Ray Luján: followed by 41 other senators
+Office of Sen. Coons: followed by 41 other senators
+Coach Tommy Tuberville: followed by 38 other senators
+Dr. Roger Marshall: followed by 36 other senators
+Senator Bill Hagerty: followed by 35 other senators
+Jon Tester: followed by 34 other senators
+Sen. Kirsten Gillibrand: followed by 34 other senators
+WydenPress: followed by 33 other senators
+Ossoff's Office: followed by 33 other senators
+Jeanne Shaheen: followed by 32 other senators
+Senator Patty Murray: followed by 32 other senators
+Tina Smith: followed by 31 other senators
+Joni Ernst: followed by 30 other senators
+Senator Hawley Press Office: followed by 30 other senators
+Bernie Sanders: followed by 28 other senators
+Jeff Merkley: followed by 26 other senators
+Josh Hawley: followed by 26 other senators
+John Thune: followed by 25 other senators
+Tammy Baldwin: followed by 25 other senators
+Sen. Grassley Press: followed by 25 other senators
+Catherine Cortez Masto: followed by 25 other senators
+Senator Kelly Loeffler: followed by 25 other senators
+Sherrod Brown: followed by 24 other senators
+Tom Cotton: followed by 22 other senators
+Ed Markey: followed by 22 other senators
+John Hickenlooper: followed by 20 other senators
+Dick Durbin: followed by 20 other senators
+Maggie Hassan: followed by 20 other senators
+Roger Wicker: followed by 19 other senators
+Gary Peters: followed by 19 other senators
+Kyrsten Sinema: followed by 18 other senators
+Ben Cardin: followed by 18 other senators
+Dianne Feinstein: followed by 18 other senators
+Tom Carper: followed by 18 other senators
+Chuck Schumer: followed by 18 other senators
+Bob Casey Jr.: followed by 17 other senators
+Tammy Duckworth: followed by 17 other senators
+Jacky Rosen: followed by 17 other senators
+Maria Cantwell: followed by 16 other senators
+Michael Bennet: followed by 16 other senators
+Joe Manchin: followed by 16 other senators
+Menendez for NJ: followed by 16 other senators
+John Neely Kennedy: followed by 15 other senators
+Mazie Hirono: followed by 15 other senators
+Thom Tillis: followed by 14 other senators
+Tim Scott: followed by 14 other senators
+Ron Johnson: followed by 14 other senators
+Cindy Hyde-Smith: followed by 14 other senators
+Mark Warner HQ: followed by 13 other senators
+Cynthia Lummis 🦬: followed by 13 other senators
+James Lankford: followed by 12 other senators
+Todd Young: followed by 12 other senators
+Marsha Blackburn: followed by 12 other senators
+Ben Ray Luján: followed by 12 other senators
+Sheldon Whitehouse: followed by 12 other senators
+Rob Portman: followed by 12 other senators
+Kelly Loeffler: followed by 11 other senators
+Chris Van Hollen: followed by 11 other senators
+Rand Paul: followed by 10 other senators
+Tommy Tuberville: followed by 10 other senators
+Rick Scott: followed by 10 other senators
+Pat Toomey: followed by 9 other senators
+Richard Burr: followed by 9 other senators
+RoyBluntMO: followed by 8 other senators
+Mike Braun: followed by 8 other senators
+John Boozman: followed by 7 other senators
+Capito for WV: followed by 7 other senators
+Deb Fischer: followed by 7 other senators
+Mike Lee: followed by 7 other senators
+Kevin Cramer: followed by 6 other senators
+Sen. Murphy Office: followed by 6 other senators
+Lisa Murkowski: followed by 3 other senators
+Angus King: followed by 3 other senators
+Mike Rounds: followed by 3 other senators
+Dan Sullivan: followed by 3 other senators
+Jim Risch for US Senate: followed by 3 other senators
+Sen. Marshall: followed by 3 other senators
