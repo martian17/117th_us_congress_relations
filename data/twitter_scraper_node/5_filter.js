@@ -21,6 +21,8 @@ for(let key in connections){
 
 stderr.log("Filtering complete");
 
+
+
 //writing out the stats
 let stats = new DocGenerator();
 stats.header(v=>`Table of contents:
