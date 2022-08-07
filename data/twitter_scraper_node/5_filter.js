@@ -14,12 +14,37 @@ senators.map(sen=>sen.accounts.map(acc=>{
     accounts[acc.id] = acc;
 }));
 
-let filtered = {};
+stderr.log("Processing outbound connections");
+stderr.log("Filtering outbound following connections to only include senators");
+let outbound = {};
 for(let key in connections){
-    filtered[key] = connections[key].filter(c=>c in accounts);
+    outbound[key] = connections[key].filter(c=>c in accounts);
 }
-
 stderr.log("Filtering complete");
+fs.writeFileSync("./5_outbound.json",JSON.stringify(outbound),"utf-8");
+stderr.log("Written outbound connections to 5_outbound.json\n");
+
+
+
+
+stderr.log("Processing inbound connections");
+stderr.log("Mapping outbound connections to inbound connections");
+let reverseGraphMapping = function(graph){
+    let rev = {};
+    for(let key in graph){
+        rev[key] = [];
+    }
+    for(let gid in graph){
+        for(rid of graph[gid]){
+            rev[rid].push(gid);
+        }
+    }
+    return rev;
+};
+let inbound = reverseGraphMapping(outbound);
+stderr.log("outbound -> inbound mapping complete");
+fs.writeFileSync("./5_inbound.json",JSON.stringify(inbound),"utf-8");
+stderr.log("Written inbound connections to 5_inbound.json\n");
 
 
 
@@ -44,12 +69,21 @@ stats.v();
 
 stats.append("\n\n\n\n");
 
-
 stats.append("# Number of senators they follow #\n");
 stats.v();
-stats.append(Object.entries(filtered)
+stats.append(Object.entries(outbound)
 .sort((a,b)=>b[1].length-a[1].length)
 .map(s=>[accounts[s[0]].name+": following "+s[1].length+" other senators"])
+.join("\n"));
+stats.v();
+
+stats.append("\n\n\n\n");
+
+stats.append("# Number of follows by other senators #\n");
+stats.v();
+stats.append(Object.entries(inbound)
+.sort((a,b)=>b[1].length-a[1].length)
+.map(s=>[accounts[s[0]].name+": followed by "+s[1].length+" other senators"])
 .join("\n"));
 stats.v();
 
