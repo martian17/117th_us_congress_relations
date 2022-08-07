@@ -2,12 +2,23 @@
 
 let fs = require("fs");
 let {stderr} = require("./utils/util.js");
-stderr.log(`If there are inconsistency in the data, they will be displayed in the stderr`);
-stderr.log(`You will need to manually go through the JSON file and and fix them`);
-stderr.log(`Hopefully the number of errors will be managable.`);
-stderr.log(`When I tried it in Aug. 5 2022, there were 18 errors, and they were all on "no owner found"`);
-stderr.log(`I was able to fix them by ctrl+f the problematic ID in the result file`);
+stderr.log(`Errors will be displayed below with description.`);
+stderr.log(`Please go to 2_intersection.json, resolve them, and store the result in 2_intersection_corrected.json\n`);
 
+stderr.log(`When I ran this script in Aug. 5 2022, there were 18 errors, and they were all on "no owner found"`);
+stderr.log(`I was able to fix them by ctrl+f the problematic ID in the result file\n`);
+
+stderr.log(`If you can't manually find the account owner in the list of senators, \
+it might be the case that the senator is retired. So add a note in the object that they are retired, as in this example:`);
+stderr.log(`{
+    "id": "76649729",
+    "name": "Lamar Alexander",
+    "username": "SenAlexander",
+    "owners": [],
+    "note": "no longer a senator"
+}\n`);
+
+stderr.log(`Errors start here`);
 
 
 let sen_100 = JSON.parse(fs.readFileSync("../117th_senators_wikipedia.json"));
@@ -91,6 +102,7 @@ for(let account of sen_all){
 }
 
 
+stderr.log(`Errors end here (if there is nothing in between, you are all clear!)\n`);
 stderr.log(`Execution complete`);
 fs.writeFileSync(
     "./2_intersection.json",
