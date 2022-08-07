@@ -28,7 +28,9 @@ let main = async function(){
             fs.writeFileSync("./4_connections.json",JSON.stringify(connections),"utf-8");
         }
     }
-    console.log("all processes completed!!!");
+    stderr.log("all processes completed!!!");
+    stderr.log("the result is stored inside the \"connections\" global variable");
+    stderr.log("senator metadata is available inside the \"senators\" global variable");
 };
 
 main();
