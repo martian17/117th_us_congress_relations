@@ -1,4 +1,4 @@
-// execute as `node 3_cleanup.js > 3_senators_mapped.json`
+//the result will be stored in 3_senators_mapped.json
 
 let fs = require("fs");
 let {stderr} = require("./utils/util.js");
@@ -21,4 +21,11 @@ for(let account of sen_all){
     delete account.owners;
 }
 
-console.log(JSON.stringify(sen_100,null,4));
+stderr.log(`Execution complete`);
+fs.writeFileSync(
+    "./3_senators_mapped.json",
+    //beautify the formatting
+    JSON.stringify(sen_100,null,4)+"\n",
+    "utf-8"
+);
+stderr.log("Written the result to 2_intersection.json");
