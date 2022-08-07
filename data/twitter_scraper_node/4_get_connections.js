@@ -1,3 +1,5 @@
+//the result will be stored in 4_connections.json
+
 let {get_all_data} = require("./utils/twitter_api.js");
 let {stderr} = require("./utils/util.js");
 let fs = require("fs");
