@@ -1,5 +1,5 @@
-let {get_all_data} = require("./twitter_api.js");
-let {stderr} = require("./util.js");
+let {get_all_data} = require("./utils/twitter_api.js");
+let {stderr} = require("./utils/util.js");
 let fs = require("fs");
 
 let get_following_ids = async function(id){

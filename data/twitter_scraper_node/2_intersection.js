@@ -1,7 +1,7 @@
 //execute as `node 2_intersection.js > 2_intersection.json`
 
 let fs = require("fs");
-let {stderr} = require("./util.js");
+let {stderr} = require("./utils/util.js");
 stderr.log(`If there are inconsistency in the data, they will be displayed in the stderr`);
 stderr.log(`You will need to manually go through the JSON file and and fix them`);
 stderr.log(`Hopefully the number of errors will be managable.`);
