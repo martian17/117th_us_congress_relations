@@ -28,4 +28,7 @@ fs.writeFileSync(
     JSON.stringify(sen_100,null,4)+"\n",
     "utf-8"
 );
-stderr.log("Written the result to 2_intersection.json");
+stderr.log("Written the result to 2_intersection.json\n");
+
+stderr.log("There may be some irregular accounts that are not associated with any of the 100 senators,");
+stderr.log("But you can ignore them if they are of non-senator or retired senators");
