@@ -1,9 +1,10 @@
 # senate twitter scraper
 First get your API keys by creating a new project at https://developer.twitter.com/en/portal  
-Then copy the API key, API key secret, and Bearer Token into toknes.json and place it in this directory  
-Then execute each JS file by `node xxx.js`. the result will appear in the terminal stdout  
-Execution order is numbered. number depends on smaller number's result  
-No dependency required other than node.js builtin  
+Then copy the API key, API key secret, and Bearer Token into toknes.json and place it in this directory.  
+Then execute each JS file by `node xxx.js` or `node-repl xxx.js` in ascending order. The result will be automatically saved in JSON files.  
+Follow instructions that appears in your terminal. There are some places where you might need to manually correct some data.  
+Execution order is numbered. larger numbers depend on smaller number's results.  
+No dependency required other than node.js builtin.  
 
 # tokens.json example
 ```json
