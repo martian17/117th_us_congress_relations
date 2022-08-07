@@ -2,8 +2,8 @@
 //results in 1_senator_all.json
 
 let fs = require("fs");
+let {request_async,get_response_body} = require("./utils/request.js");
 let {API_key, API_key_secret, Bearer_Token} = JSON.parse(fs.readFileSync("./tokens.json"));
-let {request_async,get_response_body} = require("./request.js");
 
 
 let main = async function(){
