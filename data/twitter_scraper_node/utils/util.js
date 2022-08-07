@@ -15,7 +15,14 @@ let Pause = function(ms){
     });
 };
 
-let {Console} = require("console");
+//extends the original console to save the stream it was constructed with
+class Console extends require("console").Console{
+    constructor(stream){
+        super(...arguments);
+        this.stream=stream;
+    }
+};
+
 let stderr = new Console(process.stderr);
 
-module.exports = {toQueries,Pause,stderr};
+module.exports = {toQueries,Pause,Console,stderr};
