@@ -57,7 +57,7 @@ for(let sen of sen_100){
         }
     }
     if(accounts.length === 0){
-        stderr.log(`no account found: ${JSON.stringify(sen,null,4)}\n`);
+        stderr.log(`no account found: ${JSON.stringify(sen,null,4)}`);
     }
     for(let account of accounts){
         account.owners.push(sen);
@@ -68,7 +68,7 @@ for(let sen of sen_100){
 //execute `node 2_intersection.js > 2_intersection.json` and search through the file and correct it
 for(let account of sen_all){
     if(account.owners.length === 0){
-        stderr.log(`no owner found: id = ${account.id}\n`);
+        stderr.log(`no owner found: id = ${account.id}`);
     }
     if(account.owners.length <= 1)continue;
     //performing correction
@@ -87,8 +87,8 @@ for(let account of sen_all){
     }
     account.owners = owners;
     if(account.owners.length === 1)continue;
-    //stderr.log(`multiple potential owners: ${JSON.stringify(account,null,4)}\n`);
-    stderr.log(`multiple potential owners: id = ${account.id}\n`);
+    //stderr.log(`multiple potential owners: ${JSON.stringify(account,null,4)}`);
+    stderr.log(`multiple potential owners: id = ${account.id}`);
 }
 
 
