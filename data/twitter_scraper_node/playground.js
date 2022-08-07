@@ -1,37 +1,7 @@
 let fs = require("fs");
 let https = require("https");
-
-let request_async = function(obj,cb=()=>{}){
-    return new Promise((resolve,reject)=>{
-        const request = https.request(obj, response => {
-            resolve(response);
-        });
-        request.on("error",err=>{
-            reject(err);
-        });
-        cb(request);
-        request.end();
-    });
-};
-
-let get_response_body = function(response){
-    return new Promise((resolve,reject)=>{
-        let result = "";
-        response.on("data",(d)=>{
-            result += d;
-        });
-        response.on("end",()=>{
-            resolve(result);
-        });
-        response.on("error",()=>{
-            reject(new Error("response error"));
-        });
-    });
-};
-
-
+let {request_async,get_response_body} = require("./utils/request.js");
 let {API_key, API_key_secret, Bearer_Token} = JSON.parse(fs.readFileSync("./tokens.json"));
-
 
 
 
