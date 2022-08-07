@@ -1,11 +1,12 @@
 //execute as `node 2_intersection.js > 2_intersection.json`
 
 let fs = require("fs");
-process.stderr.write(`If there are inconsistency in the data, they will be displayed in the stderr\n`);
-process.stderr.write(`You will need to manually go through the JSON file and and fix them\n`);
-process.stderr.write(`Hopefully the number of errors will be managable.\n`);
-process.stderr.write(`When I tried it in Aug. 5 2022, there were 18 errors, and they were all on "no owner found"\n`);
-process.stderr.write(`I was able to fix them by ctrl+f the problematic ID in the result file\n`);
+let {stderr} = require("./util.js");
+stderr.log(`If there are inconsistency in the data, they will be displayed in the stderr`);
+stderr.log(`You will need to manually go through the JSON file and and fix them`);
+stderr.log(`Hopefully the number of errors will be managable.`);
+stderr.log(`When I tried it in Aug. 5 2022, there were 18 errors, and they were all on "no owner found"`);
+stderr.log(`I was able to fix them by ctrl+f the problematic ID in the result file`);
 
 
 
@@ -56,7 +57,7 @@ for(let sen of sen_100){
         }
     }
     if(accounts.length === 0){
-        process.stderr.write(`no account found: ${JSON.stringify(sen,null,4)}\n`);
+        stderr.log(`no account found: ${JSON.stringify(sen,null,4)}\n`);
     }
     for(let account of accounts){
         account.owners.push(sen);
@@ -67,7 +68,7 @@ for(let sen of sen_100){
 //execute `node 2_intersection.js > 2_intersection.json` and search through the file and correct it
 for(let account of sen_all){
     if(account.owners.length === 0){
-        process.stderr.write(`no owner found: id = ${account.id}\n`);
+        stderr.log(`no owner found: id = ${account.id}\n`);
     }
     if(account.owners.length <= 1)continue;
     //performing correction
@@ -86,8 +87,8 @@ for(let account of sen_all){
     }
     account.owners = owners;
     if(account.owners.length === 1)continue;
-    //process.stderr.write(`multiple potential owners: ${JSON.stringify(account,null,4)}\n`);
-    process.stderr.write(`multiple potential owners: id = ${account.id}\n`);
+    //stderr.log(`multiple potential owners: ${JSON.stringify(account,null,4)}\n`);
+    stderr.log(`multiple potential owners: id = ${account.id}\n`);
 }
 
 
